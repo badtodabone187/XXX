@@ -1,4 +1,4 @@
-# geonotes
+# Nodify
 
 A new Flutter project.
 
